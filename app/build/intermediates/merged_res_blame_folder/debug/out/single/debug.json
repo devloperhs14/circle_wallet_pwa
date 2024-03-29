@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_sendpage.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/sendpage.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_usdc_logo.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/usdc_logo.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_layout_input_field.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/layout_input_field.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_intro_item2_icon.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_intro_item2_icon.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/font_en_medium.ttf.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/font/en_medium.ttf"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/font_inter_regular.ttf.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_table_border.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/table_border.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_close.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_disabled_white_text_color.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/disabled_white_text_color.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_intro_main_icon.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_intro_main_icon.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/font_inter_medium.ttf.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/font/inter_medium.ttf"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_intro_item0_icon.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_intro_item0_icon.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_avalanche_logo.jpg.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/avalanche_logo.jpg"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_intro_item1_icon.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_intro_item1_icon.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ethereum_logo.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ethereum_logo.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_confirm_main_icon.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_confirm_main_icon.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_dropdown_arrow.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_dropdown_arrow.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_fragment_main.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/font_inter_extra_light.ttf.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/font/inter_extra_light.ttf"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_initialise_account.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/initialise_account.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_activated_round_input_bg.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/activated_round_input_bg.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_checkmark.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_checkmark.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_activity_custom.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/activity_custom.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_acquire_token_for_existing_user.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/acquire_token_for_existing_user.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/font_inter_semi_bold.ttf.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/font/inter_semi_bold.ttf"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_round_input_bg_focused.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/round_input_bg_focused.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_walletcreationpage.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/walletcreationpage.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/font_inter_light.ttf.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/font/inter_light.ttf"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_transactionspage.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/transactionspage.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_pressed_round_main_bt.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/pressed_round_main_bt.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_acquire_session_token.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/acquire_session_token.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_loading_dialog_layout.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/loading_dialog_layout.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_error_info.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_error_info.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/layout_homepage.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/homepage.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-merged_res-51:/drawable_ic_back.xml.flat",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/drawable/ic_back.xml"
+    }
+]

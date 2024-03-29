@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/sendpage.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/sendpage.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/loading_dialog_layout.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/loading_dialog_layout.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/transactionspage.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/transactionspage.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/layout_input_field.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/layout_input_field.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/fragment_main.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/activity_custom.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/activity_custom.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/homepage.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/homepage.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/initialise_account.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/initialise_account.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/acquire_token_for_existing_user.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/acquire_token_for_existing_user.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/acquire_session_token.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/acquire_session_token.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/walletcreationpage.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/walletcreationpage.xml"
+    },
+    {
+        "merged": "com.circle.w3s.sample.wallet.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "com.circle.w3s.sample.wallet.app-main-53:/layout/activity_main.xml"
+    }
+]

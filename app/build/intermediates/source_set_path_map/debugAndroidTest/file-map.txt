@@ -1,0 +1,6 @@
+com.circle.w3s.sample.wallet.test.app-core-1.5.0-0 C:\Users\harsh\.gradle\caches\transforms-3\b32c7386a2aef6715cb5bd71e2ff357e\transformed\core-1.5.0\res
+com.circle.w3s.sample.wallet.test.app-annotation-experimental-1.3.0-1 C:\Users\harsh\.gradle\caches\transforms-3\c5ec658faf2b98f812e539eacbdac157\transformed\annotation-experimental-1.3.0\res
+com.circle.w3s.sample.wallet.test.app-androidTest-2 D:\Learnings\campus_learning\CIRCLE PAYMENTS\circle_pw\Circle_PW_Android_Wallet\app\build\generated\res\resValues\androidTest\debug
+com.circle.w3s.sample.wallet.test.app-mergeDebugAndroidTestResources-3 D:\Learnings\campus_learning\CIRCLE PAYMENTS\circle_pw\Circle_PW_Android_Wallet\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.circle.w3s.sample.wallet.test.app-mergeDebugAndroidTestResources-4 D:\Learnings\campus_learning\CIRCLE PAYMENTS\circle_pw\Circle_PW_Android_Wallet\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.circle.w3s.sample.wallet.test.app-merged_res-5 D:\Learnings\campus_learning\CIRCLE PAYMENTS\circle_pw\Circle_PW_Android_Wallet\app\build\intermediates\merged_res\debugAndroidTest
